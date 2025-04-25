@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
+🎓 Estudante de Tecnologia da Informação (3º semestre)  
+💻 Em transição de carreira pro desenvolvimento Front-End  
+🚀 Aprendendo HTML, CSS, JS, TypeScript, React e Clean Code com o curso DevQuest  
+🎯 Buscando minha primeira oportunidade como dev júnior
+
  <div>
    <a href="https://github.com/erickao-120hzz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickao-120hzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
