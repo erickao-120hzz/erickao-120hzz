@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
-🎓 Estudante de Tecnologia da Informação (3º semestre)  
-💻 Em transição de carreira pro desenvolvimento Front-End  
-🚀 Aprendendo HTML, CSS, JS, TypeScript, React e Clean Code com o curso DevQuest  
+🎓 Estudante de Tecnologia da Informação (3º semestre)
+💻 Em transição de carreira pro desenvolvimento Front-End
+🚀 Aprendendo HTML, CSS, JS, TypeScript, React e Back-End.
 🎯 Buscando minha primeira oportunidade como dev júnior
 
  <div>
