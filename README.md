@@ -1,3 +1,12 @@
+<img src="assets/capa.jpg" alt="Capa do repositório" width="100%" />
+
+## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
+
+🎓 Estudante de Tecnologia da Informação (3º semestre)  
+💻 Em transição de carreira pro desenvolvimento Front-End  
+🚀 Aprendendo HTML, CSS, JS, TypeScript, React e Back-End.
+
+
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
 🎓 Estudante de Tecnologia da Informação (3º semestre)
