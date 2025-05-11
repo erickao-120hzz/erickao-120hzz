@@ -1,4 +1,4 @@
-<img src="assets/capa.jpg" alt="Capa do repositório" width="100%" height="auto"/>
+![Capa do repositório](https://raw.githubusercontent.com/erickao-120hzz/projeto-clone-yu-gi-oh/main/assets/capa.jpg)
 
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
