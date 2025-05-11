@@ -1,4 +1,3 @@
-<img src="assets/capa.jpg" alt="Capa do repositório" width="100%" height="auto" />
 
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
