@@ -3,7 +3,7 @@
 🎓 Estudante de Tecnologia da Informação (3º semestre)
 💻 Em transição de carreira pro desenvolvimento Front-End
 🚀 Aprendendo HTML, CSS, JS, TypeScript, React e Back-End.
-🎯 Buscando minha primeira oportunidade como dev júnior
+
 
  <div>
    <a href="https://github.com/erickao-120hzz">
