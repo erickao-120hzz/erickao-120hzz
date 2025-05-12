@@ -2,7 +2,7 @@
 
 🎓 Estudante de TI
 💻 Em transição de carreira para o desenvolvimento Full Stack
-🚀 Atualmente me aprofundando em tecnologias de Front-End e Back-End, com foco em HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, SQL e mais.
+🚀 Atualmente me aprofundando em tecnologias de Front-End e Back-End, com foco em HTML, CSS, JavaScript, TypeScript, React e mais.
 
 
  <div>
