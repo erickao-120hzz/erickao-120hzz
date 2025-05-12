@@ -1,3 +1,5 @@
+![Banner do perfil](./assets/capa.jpg)
+
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
 🎓 Estudante de TI
