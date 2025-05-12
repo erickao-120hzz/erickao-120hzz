@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
-🎓 Estudante de Tecnologia da Informação (3º semestre)  
-💻 Em transição de carreira pro desenvolvimento Front-End  
-🚀 Aprendendo HTML, CSS, JS, TypeScript, React e Back-End.
+🎓 Estudante de Tecnologia da Informação (3º semestre)
+💻 Em transição de carreira para o desenvolvimento Full Stack
+🚀 Atualmente me aprofundando em tecnologias de Front-End e Back-End, com foco em HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, SQL e mais.
 
 
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
