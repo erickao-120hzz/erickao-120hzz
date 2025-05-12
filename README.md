@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/capa.jpg" alt="Capa do repositório" width="100%" />
-</p>
-
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
 🎓 Estudante de Tecnologia da Informação (3º semestre)  
