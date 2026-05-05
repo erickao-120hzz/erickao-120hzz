@@ -3,8 +3,8 @@
 ## Bem-vindo(a) ao perfil do ERICKAO! 🐱‍👤
 
 🎓 Estudante de TI
-💻 Em transição de carreira para o desenvolvimento Full Stack
-🚀 Atualmente me aprofundando em tecnologias de Front-End e Back-End, com foco em HTML5, CSS3, JavaScript, React, TypeScript & mais..
+💻 Desenvolvedor Frond-end
+🚀 Atualmente me aprofundando em tecnologias de Front-End, com foco em HTML5, CSS3, JavaScript, n8n..
 
 
  <div>
